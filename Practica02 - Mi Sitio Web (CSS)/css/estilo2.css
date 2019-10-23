@@ -1,0 +1,114 @@
+#titulo{
+    background-color: sienna;
+}
+
+#menuprincipal{
+    width: 10%;
+    height: 80%;
+    background-color: rgb(225, 226, 195);
+    border-width: thick;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    float: left;
+    line-height: 18px;
+}
+
+#menu{
+    float: right;
+    margin-top: -10px;
+}
+
+#contenido2col{
+    width: 85%;
+    height: 150%;
+    margin-left: 10px;
+    padding: 5px 20px;
+    background-color:  rgb(206, 207, 176);
+    border: 5px solid black;
+    float: left;
+}
+
+#piedepagina{
+    margin: 0;
+    padding: 0;
+    height: 20%;
+    margin-top: 930px;
+    width: 80%;
+}
+
+.imagesIndex{
+    margin: 10px auto;
+    display: block;
+    height: 200px;
+    width: 800px;
+}
+
+.imagesLogo{
+    height: 25px;
+    width: 30px;
+}
+
+.imagesContenido{
+    margin: 10px auto;
+    display: block;
+    height: 200px;
+    width: 800px;
+}
+
+.imagesContenido1{
+    margin: 10px;
+    margin: 50px;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+.imageContenido2{
+    margin: 10px;
+    margin: 50px;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+footer p{
+    float: left;
+    background-color: paleturquoise;
+}
+
+#copyright{
+    float: right;
+    background-color: paleturquoise;
+}
+
+#redes{
+    margin-top: -180px;
+    width: 80%;
+    float: right;
+}
+
+#efecto{
+    margin-top: -170px;
+    width: 80%;
+    float: right;
+}
+
+
+
+#tabla{
+    margin-top: -200px;
+    width: 80%;
+    float: right;
+}
+
+body{
+    background-image: url(../images/fondo.jpg);
+}
+
+#formulario{
+    margin-top: -180px;
+    width: 80%;
+    float: right;
+}

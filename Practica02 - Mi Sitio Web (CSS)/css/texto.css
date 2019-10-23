@@ -1,0 +1,210 @@
+h1{
+  color:rgb(54, 39, 35);
+  font-family: cursive;
+  
+}
+h2, h3{
+  color:rgb(54, 39, 35);
+  font-family: Arial;
+  font-size: 0.5cm;
+}
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+ 
+.principal {
+    display:block;
+    margin:0 auto;
+    width:510px;
+    color: rgb(54, 39, 35);
+    font-family:Arial;
+}
+ 
+form {
+    margin:0 auto;
+    width:400px;
+}
+ 
+.boton {
+    width:85px;
+    height:35px;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+    color: #f6f6f6;
+    background-color: #000000;
+    margin: 0 auto;
+    display: inline-block;
+    
+}
+
+input, textarea {
+    width:380px;
+    height:27px;
+    background:#f6f6f6;
+    border:2px solid #f6f6f6;
+    padding:10px;
+    margin-top:5px;
+    font-size:10px;
+    color:#000000;
+}
+ 
+textarea {
+    height:150px;
+}
+
+a{
+    color: #FF1212;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 80%;
+    border: 1px solid #000;
+ }
+
+ th, td {
+    width: 10%;
+    text-align: center;
+    vertical-align: top;
+    border: 1px solid rgb(219, 13, 13);
+    border-collapse: collapse;
+    padding: 0.3em;
+    caption-side: bottom;
+    font-family: sans-serif;
+ }
+
+ caption {
+    padding: 0.3em;
+ }
+
+ nav p{
+     color: brown;
+     font-family: initial;
+ }
+
+ h4, h5, h6{
+     color:rgb(83, 73, 25);
+     font-family: Arial, Helvetica, sans-serif; 
+ }
+
+ article p{
+     color: rgb(75, 72, 72);
+     font-family: monospace;
+ }
+
+ article div p {
+     color: black !important;
+ }
+ 
+ a {
+	font-family: Poppins-Regular;
+	font-size: 14px;
+	line-height: 1.7;
+	color: #666666;
+	margin: 0px;
+	transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+}
+
+a:focus {
+	outline: none !important;
+}
+
+a:hover {
+	text-decoration: none;
+  color: #333333;
+}
+
+.txt1 {
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    color: #999999;
+    line-height: 1.5;
+  }
+  
+  .txt2 {
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    color: #57b846;
+    line-height: 1.5;
+  }
+  
+  .limiter {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .container-login100 {
+    width: 100%;  
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: #fff;  
+  }
+  
+  .wrap-login100 {
+    width: 390px;
+    background: #fff;
+  }
+  
+  .login100-form {
+    width: 100%;
+  }
+  
+  .login100-form-title {
+    display: block;
+    font-family: Poppins-Bold;
+    font-size: 39px;
+    color: #333333;
+    line-height: 1.2;
+    text-align: center;
+  }
+  
+  .login100-form-avatar {
+    display: block;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  
+  .login100-form-avatar img {
+    width: 100%;
+  }
+  
+  .wrap-input100 {
+    width: 100%;
+    position: relative;
+    border-bottom: 2px solid #d9d9d9;
+  }
+  
+  .input100 {
+    font-family: Poppins-SemiBold;
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.2;
+  
+    display: block;
+    width: 100%;
+    height: 52px;
+    background: transparent;
+    padding: 0 5px;
+  }
+
+  ul, li {
+	margin: 0px;
+	list-style-type: none;
+}

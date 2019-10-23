@@ -1,0 +1,71 @@
+
+#titulo{
+    background-color:rgb(35, 54, 39);
+}
+#menu{
+    float: right;
+    margin-top: -10px;
+}
+
+#menuprincipal{
+    width: 10%;
+    height: 80%;
+    background-color: rgb(225, 226, 195);
+    border-width: thick;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+    float: left;
+    line-height: 18px;
+}
+#aside1{
+    width: 60%;
+    height: 150%;
+    margin-left: 10px;
+    padding: 5px 20px;
+    background-color: rgb(206, 207, 176);
+    border: 5px solid black;
+    float: left;
+}
+#aside2{
+    width: 21%;
+    height: 150%;
+    margin-left: 10px;
+    padding: 5px 20px;
+    background-color: rgb(180, 180, 160);
+    border: 3px solid black;
+    float: left;
+}
+.footer{
+    margin: 0;
+    padding: 0;
+    height: 20%;
+    margin-top: 950px;
+    width: 80%;
+}
+.imagesaside1{
+    margin: 10px auto;
+    display: block;
+    height: 200px;
+    width: 800px;
+}
+
+.imagesLogo{
+    height: 25px;
+    width: 30px;
+}
+
+footer p{
+    float: left;
+    background-color: rgb(58, 165, 31);
+}
+
+#copyright{
+    float: right;
+    background-color: rgb(58, 165, 31);
+}
+
+body{
+    background-image: url(../images/fondo.jpg);
+}
